@@ -1,0 +1,9 @@
+ STRUKTUR PEMBELIAN BENSIN
+==================================
+ Nama Pembeli = Tata
+ Jenis Bensin = Pertamax
+ Total Liter  = 2.47
+ Harga/liter  = 9000
+==================================
+
+ Total Pembelian : 22230

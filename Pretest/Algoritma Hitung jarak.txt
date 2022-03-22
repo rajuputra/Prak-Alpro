@@ -1,0 +1,20 @@
+Program menghitung jarak dua titik
+
+x1,y1
+x2,y2
+
+Masukkan koordinat titik pertama
+x1 =
+y1 =
+
+Masukkan koordinat titik kedua 
+x2 =
+y2 =
+
+koor x = x2 - x1
+koor y = y2 - y1
+
+AB = x^2 + y^2
+hasil = sqrt (AB)
+
+cout << "Jarak antara titik pertama dan kedua adalah = " << hasil ;
